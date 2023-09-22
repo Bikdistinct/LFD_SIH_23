@@ -1,0 +1,221 @@
+@import url(https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css);
+ 
+ html, body, * {
+	 box-sizing: border-box;
+	 font-size: 12px;
+     font-family: Arial, Helvetica, sans-serif;
+}
+ html, body {
+	 height: 100%;
+	 text-align: center;
+}
+ body {
+	 font-size: 12px;
+	 background: #f8f8f8;
+     font-family: Arial, Helvetica, sans-serif
+}
+.nav_back{
+    padding-left:2rem ;
+    display: flex;
+    flex-direction: row;
+    align-items: baseline;
+    text-align: left;
+    font-weight: lighter;
+}
+.nav_back div{
+    align-items: end;
+    width: 46%;
+}
+
+.nav_back #back a{
+   text-decoration: none;
+   color: #000215;
+}
+
+@media (max-width:980px) {
+    .nav_back #back {
+        display: none;
+     }
+    .nav_back div{
+        width: 100%;
+        text-align: center;
+    }
+    .nav_back{
+        margin-top: 20px;
+        margin-bottom: 100px;
+    }
+}
+
+ h2 {
+	 font-size: 26px;
+	 line-height: 0.5;
+	 color: #013c04;
+	 margin-bottom: 0;
+}
+
+
+
+.nav_back{
+    margin-top: 20px;
+    margin-bottom: 100px;
+}
+ p {
+	 font-size: 14px;
+     font-weight: lighter;
+	 color: #5e6161;
+    margin-bottom: 30px;
+}
+ .uploader {
+	 display: block;
+	 clear: both;
+	 margin: 0 auto;
+	 width: 100%;
+	 max-width: 50rem;
+}
+ .uploader label {
+	 float: left;
+	 clear: both;
+	 width: 100%;
+	 padding: 3rem 2rem;
+	 text-align: center;
+	 background: #fff;
+	 border-radius: 7px;
+	 border: 3px solid #eee;
+	 transition: all 0.2s ease;
+	 user-select: none;
+}
+ .uploader label:hover {
+	 border-color: #014f0c;
+}
+ .uploader label.hover {
+	 border: 3px solid #014201;
+	 box-shadow: inset 0 0 0 6px #eee;
+}
+ .uploader label.hover #start i.fa {
+	 transform: scale(0.8);
+	 opacity: 0.3;
+}
+ .uploader #start {
+	 float: left;
+	 clear: both;
+	 width: 100%;
+}
+ .uploader #start.hidden {
+	 display: none;
+}
+ .uploader #start i.fa {
+	 font-size: 50px;
+	 margin-bottom: 1rem;
+	 transition: all 0.2s ease-in-out;
+}
+ .uploader #response {
+	 float: left;
+	 clear: both;
+	 width: 100%;
+}
+ .uploader #response.hidden {
+	 display: none;
+}
+ .uploader #response #messages {
+	 margin-bottom: 0.5rem;
+}
+ .uploader #file-image {
+	 display: inline;
+	 margin: 0 auto 0.5rem auto;
+	 width: auto;
+	 height: auto;
+	 max-width: 180px;
+}
+ .uploader #file-image.hidden {
+	 display: none;
+}
+ .uploader #notimage {
+	 display: block;
+	 float: left;
+	 clear: both;
+	 width: 100%;
+}
+ .uploader #notimage.hidden {
+	 display: none;
+}
+ .uploader progress, .uploader .progress {
+	 display: inline;
+	 clear: both;
+	 margin: 0 auto;
+	 width: 100%;
+	 max-width: 180px;
+	 height: 8px;
+	 border: 0;
+	 border-radius: 4px;
+	 background-color: #eee;
+	 overflow: hidden;
+}
+ .uploader .progress[value]::-webkit-progress-bar {
+	 border-radius: 4px;
+	 background-color: #eee;
+}
+ .uploader .progress[value]::-webkit-progress-value {
+    background: linear-gradient(to right, #01420c 0%, #04ea10 50%);
+	 border-radius: 4px;
+}
+ .uploader .progress[value]::-moz-progress-bar {
+	 background: linear-gradient(to right, #01420c 0%, #04ea10 50%);
+	 border-radius: 4px;
+}
+ .uploader input[type="file"] {
+	 display: none;
+}
+ .uploader div {
+	 margin: 0 0 0.5rem 0;
+	 color: #037020;
+}
+ .uploader .btn {
+	 display: inline-block;
+	 margin: 0.5rem 0.5rem 1rem 0.5rem;
+	 clear: both;
+	 font-family: inherit;
+	 font-weight: lighter;
+	 font-size: 14px;
+	 text-decoration: none;
+	 text-transform: initial;
+	 border: none;
+	 border-radius: 0.2rem;
+	 outline: none;
+	 padding: 0 1rem;
+	 height: 36px;
+	 line-height: 36px;
+	 color: #fff;
+	 transition: all 0.2s ease-in-out;
+	 box-sizing: border-box;
+	 background: #012405;
+	 border-color: #013c02;
+	 cursor: pointer;
+}
+ 
+#search_but{
+    margin: 20px;
+    width: 40%;
+    padding: 15px;
+    font-size: 14px;
+    color: white;
+    background-color: #014309;
+    font-weight: 500;
+    border-radius: 5px;
+}
+
+@media (max-width:980px) {
+    .nav_back #back {
+        display: none;
+     }
+    .nav_back div{
+        width: 100%;
+        text-align: center;
+    }
+    .nav_back{
+        margin-top: 20px;
+        margin-bottom: 30px;
+    }
+    h2{
+        line-height: 1;
+    }
+}
