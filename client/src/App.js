@@ -1,10 +1,10 @@
 
 import './App.css';
-
+import Resultpage from './components/Pages/Resultpage';
 function App() {
   return (
     <div>
-        hello lofi devs....
+        <Resultpage/>
     </div>
   );
 }

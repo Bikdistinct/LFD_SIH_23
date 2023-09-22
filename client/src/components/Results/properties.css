@@ -1,0 +1,57 @@
+.properties {
+  display: flex;
+  flex-direction: row;
+  padding: 1rem;
+  padding-top: 9rem;
+  background: rgba(240, 247, 237, 1);
+}
+.prop-left{
+    width: 30vw;
+}
+.prop-left-img{
+    width: 100%; 
+    /* height: 100%; */
+    /* object-fit: cover;  */
+}
+.prop-right {
+  display: flex;
+  flex-direction: column;
+  width: 70vw;
+  background: transparent;
+}
+
+.prop-des {
+  color: rgba(16, 56, 29, 1);
+  font-family: Gilroy-Light;
+  font-size: 40px;
+  line-height: 47px;
+  letter-spacing: 0.04em;
+  text-align: left;
+}
+#title {
+    font-family: Gilroy-Medium;
+    font-size: 2rem;
+    line-height: 2.8rem;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(16, 56, 29, 1);
+
+}
+#prop-list-head{
+font-family: Gilroy-Medium;
+font-size: 1.7rem;
+line-height: 1.9rem;
+letter-spacing: 0em;
+text-align: left;
+color:rgba(76, 175, 80, 1);
+
+}
+#prop-list-des{
+    font-family: Gilroy-Regular;
+    font-size: 1.25rem;
+    line-height: 1.7rem;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(0, 0, 0, 0.59);
+
+}

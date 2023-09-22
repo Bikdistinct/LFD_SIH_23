@@ -1,0 +1,47 @@
+/* .resultpage{
+    font-size: ;
+} */
+.Plant_grid-container {
+  display: grid;
+  height: 100%;
+  grid-template-columns: 30% 40% 30%;
+  grid-template-rows:auto 1fr 3fr;
+  padding: 1rem;
+  margin: 3rem;
+}
+.Plant_grid-item {
+  background-color: rgba(255, 255, 255, 0.8);
+  font-size: 30px;
+  font-family: Gilroy-Medium;
+  text-align: center;
+}
+.item5 {
+  grid-column-start: 2;
+  grid-row-start: 2;
+  grid-row-end: 4;
+  z-index: 100;
+}
+.itemL {
+  text-align: left;
+}
+.itemR {
+  text-align: right;
+}
+.item2 {
+    display: flex;
+    align-items: center;
+}
+
+#line-span {
+    flex: 1;
+    height: 2px;
+    background-color: black;
+}
+
+#text-span {
+    font-size: 35px;
+    margin: 0 1rem;
+}
+.plant-des {
+  color: rgba(76, 175, 80, 1);
+}
