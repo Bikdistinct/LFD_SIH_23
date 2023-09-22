@@ -1,0 +1,21 @@
+.disease-container{
+    display: flex;
+    flex-direction: row;
+    /* justify-content: space-around; */
+    /* flex-wrap: wrap; */
+    width: 100%;
+    overflow-x: scroll;
+}
+.disease-container::-webkit-scrollbar {
+    width: 0;
+  }
+.disease{
+    display: flex;
+    flex-direction: column;
+}
+
+.scroll-arrow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
