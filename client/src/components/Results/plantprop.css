@@ -1,0 +1,32 @@
+.plantprop{
+    display: flex;
+    flex-direction: row;
+}
+
+.prop-cont{
+    position: relative;
+    display: flex;
+    width: 50vw;
+}
+.prop-img{
+    width: 100%; /* Make the image fill the container width */
+    height: 100%; /* Make the image fill the container height */
+    object-fit: cover; /* Fit the image while preserving its aspect ratio */
+}
+.overlay-text {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    font-size: 2rem;
+    top: 80%;
+    left: 32%;
+    transform: translate(-50%, -50%);
+    color: white;
+    padding: 10px;
+  }
+  .overlay-text p{
+    margin: 0.6rem;
+    margin-bottom: 1rem;
+    
+  }

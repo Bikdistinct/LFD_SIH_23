@@ -1,0 +1,169 @@
+
+
+body .box-form {
+  margin: 0 auto;
+  width: 100%;
+  height: 100%;
+  background: #FFFFFF;
+  border-radius: 10px;
+  display: flex;
+  flex: 1 1 100%;
+  align-items: stretch;
+  justify-content: space-between;
+  box-shadow: 0 0 20px 6px rgb(213, 243, 168);
+}
+.box-form div {
+  width: 100%;
+}
+.box-form .left {
+  color: #FFFFFF;
+  overflow: hidden;
+}
+@media (max-width:980px) {
+  .box-form .left{
+    display: none;
+  }
+}
+.box-form .left .overlay {
+  width: 100%;
+  height: 100%;
+  box-sizing: border-box;
+}
+.box-form .right h5 {
+  font-size: 100px;
+  line-height: 1;
+  font-weight: 900;
+  margin-top: 40px;
+  margin-bottom: 20px;
+}
+.box-form .right div p {
+  margin-top: 30px;
+  font-weight: 900;
+}
+.box-form .right .signin{
+  padding-bottom:30px;
+  text-align: right;
+  display: inline-block;
+}
+.box-form .right .signin p a{
+  color: #49C628;
+  background: none;
+  text-align: right;
+  box-shadow: none;
+  margin: 0px;
+  padding: 0px;
+}
+.box-form .right .socialmedia{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.box-form .right .socialmedia a {
+  color: black;
+  margin-top: 30px;
+  width: 30%;
+  margin-left: 30px;
+  padding: 14px 20px;
+  display: inline-block;
+  border: 2px solid black;
+  text-decoration: none;
+  text-align: center;
+}
+
+.box-form .right {
+  padding-left: 75px;
+  padding-bottom: 75px;
+  padding-right: 75px;
+  overflow: hidden;
+}
+
+.box-form .right .divider{
+  margin-top: 40px;
+  text-align: center;
+  opacity: 0.5;
+}
+
+@media (min-width: 980px) {
+  .box-form .right {
+    width: 100%;
+  }
+}
+.box-form .right h5 {
+  font-size: 4rem;
+  line-height: 0.4;
+}
+.box-form .right p {
+  font-size: 14px;
+  color: #B0B3B9;
+}
+.box-form .right .inputs {
+  overflow: hidden;
+}
+.box-form .right input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 25px;
+  font-size: 16px;
+  border: none;
+  outline: none;
+  border-bottom: 2px solid #B0B3B9;
+}
+.box-form .right .remember-me--forget-password {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.box-form .right .remember-me--forget-password input {
+  margin: 0;
+  margin-right: 7px;
+  width: auto;
+}
+.box-form .right button {
+  width: 100%;
+  color: #fff;
+  font-size: 16px;
+  padding: 12px 35px;
+  background-color: rgb(2, 48, 2);
+}
+
+label {
+  display: block;
+  position: relative;
+  margin-left: 30px;
+}
+
+label::before {
+  content: ' \f00c';
+  position: absolute;
+  font-family: FontAwesome;
+  background: transparent;
+  border: 3px solid black;
+  border-radius: 4px;
+  color: transparent;
+  left: -30px;
+  transition: all 0.2s linear;
+}
+
+label:hover::before {
+  font-family: FontAwesome;
+  content: ' \f00c';
+  color: #fff;
+  cursor: pointer;
+  background: black;
+}
+
+label:hover::before .text-checkbox {
+  background: black;
+}
+
+label span.text-checkbox {
+  display: inline-block;
+  height: auto;
+  position: relative;
+  cursor: pointer;
+  transition: all 0.2s linear;
+}
+
+label input[type="checkbox"] {
+  display: none;
+}

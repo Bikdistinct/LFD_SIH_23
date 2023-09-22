@@ -1,0 +1,32 @@
+.disease-card{
+    display: flex;
+    flex-direction: row;
+    flex: 0 0 auto;
+    width: 50vw;
+    /* height: max-content; */
+    padding: 1rem;
+    background: rgba(240, 247, 237, 1);
+    margin: 3rem;
+
+}
+.disease-left{
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+}
+.disease-right{
+    width: 40%;
+}
+.disease-right-img{
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.disease-card.focused {
+    height: 30vh; /* Adjusted height for the focused card */
+  }
+  
+  .disease-card.large {
+    height: 50vh; /* Adjusted height for other cards */
+  }
