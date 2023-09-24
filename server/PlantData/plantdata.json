@@ -1,0 +1,403 @@
+{
+  "Asthma Plant": {
+    "Scientific Name": "Euphorbia hirta",
+    "Local Name": "Dudhi, Dugdhika, Bara-dudhi",
+    "Family": "Euphorbiaceae",
+    "Where it is Found Locally": "Commonly found in tropical and subtropical regions, including Asia and the Americas.",
+    "Medicinal Properties": "Asthma Plant is known for its anti-asthmatic properties. It is used to relieve symptoms of asthma, bronchitis, and other respiratory conditions.",
+    "Clinical Usage": "It is used in traditional medicine to make herbal preparations such as teas and decoctions for respiratory ailments. It helps to alleviate cough, wheezing, and chest congestion."
+  },
+  "Avaram": {
+    "Scientific Name": "Senna auriculata",
+    "Local Name": "Avaram, Tanner's cassia",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to India and commonly found in Southern India.",
+    "Medicinal Properties": "Avaram has various medicinal properties, including antidiabetic, antimicrobial, and antioxidant effects. It is also known for its diuretic properties.",
+    "Clinical Usage": "Avaram leaves and flowers are used to make herbal infusions that are traditionally used to treat diabetes, skin diseases, and urinary disorders. It is also used as a natural remedy for digestive issues."
+  },
+  "Balloon Vine": {
+    "Scientific Name": "Cardiospermum halicacabum",
+    "Local Name": "Balloon Vine, Kanphuti, Mudakathan",
+    "Family": "Sapindaceae",
+    "Where it is Found Locally": "Found in various parts of India and other tropical regions.",
+    "Medicinal Properties": "Balloon Vine is known for its anti-inflammatory and analgesic properties. It is used to alleviate joint pain and inflammation.",
+    "Clinical Usage": "In traditional medicine, Balloon Vine is used topically in the form of poultices or oils to relieve arthritis, rheumatism, and muscle pain. It may also be used for skin conditions."
+  },
+  "Bellyache Bush (Green)": {
+    "Scientific Name": "Jatropha gossypiifolia",
+    "Local Name": "Green Bellyache Bush, Black Physicnut",
+    "Family": "Euphorbiaceae",
+    "Where it is Found Locally": "Native to the Americas but has become naturalized in many tropical regions.",
+    "Medicinal Properties": "Various parts of the plant have been used for their medicinal properties, including anti-inflammatory and analgesic effects.",
+    "Clinical Usage": "It is used in traditional medicine to treat a range of ailments, including abdominal pain, constipation, and skin conditions. However, caution is advised, as some parts of the plant can be toxic."
+  },
+  "Benghal Dayflower": {
+    "Scientific Name": "Commelina benghalensis",
+    "Local Name": "Benghal Dayflower, Tropical Spiderwort",
+    "Family": "Commelinaceae",
+    "Where it is Found Locally": "Native to tropical and subtropical regions, it is considered a weed in many parts of the world.",
+    "Medicinal Properties": "It is used in traditional medicine for its diuretic and anti-inflammatory properties.",
+    "Clinical Usage": "Benghal Dayflower is traditionally used to treat urinary disorders, including urinary tract infections. It may also be used to alleviate inflammation."
+  },
+  "Big Caltrops": {
+    "Scientific Name": "Tribulus terrestris",
+    "Local Name": "Big Caltrops, Gokshura",
+    "Family": "Zygophyllaceae",
+    "Where it is Found Locally": "Native to warm temperate and tropical regions.",
+    "Medicinal Properties": "It is known for its diuretic, aphrodisiac, and anti-inflammatory properties.",
+    "Clinical Usage": "In traditional medicine, Big Caltrops is used to treat urinary and reproductive issues, including impotence and infertility. It is also used to enhance athletic performance."
+  },
+  "Black-Honey Shrub": {
+    "Scientific Name": "Melochia tomentosa",
+    "Local Name": "Black-Honey Shrub, Upland Mallow",
+    "Family": "Malvaceae",
+    "Where it is Found Locally": "Native to tropical regions, it is often found in open grasslands.",
+    "Medicinal Properties": "It is used traditionally for its anti-inflammatory and analgesic properties.",
+    "Clinical Usage": "Black-Honey Shrub is used in traditional medicine to treat pain and inflammation, including joint pain and headaches. It is also used for its mild laxative effect."
+  },
+  "Bristly Wild Grape": {
+    "Scientific Name": "Cayratia trifolia",
+    "Local Name": "Bristly Wild Grape, Bush Grape",
+    "Family": "Vitaceae",
+    "Where it is Found Locally": "Common in tropical and subtropical regions, often found in forests and hilly areas.",
+    "Medicinal Properties": "Bristly Wild Grape is known for its antioxidant properties.",
+    "Clinical Usage": "It is traditionally used to treat various ailments, including fever and skin disorders. The leaves and stem extracts are used for their medicinal benefits."
+  },
+  "Butterfly Pea": {
+    "Scientific Name": "Clitoria ternatea",
+    "Local Name": "Butterfly Pea, Blue Pea",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to tropical regions in Asia.",
+    "Medicinal Properties": "Butterfly Pea is known for its antioxidant properties and is rich in anthocyanins.",
+    "Clinical Usage": "It is traditionally used to promote brain health, improve memory, and reduce stress and anxiety. The blue flowers are often used to make herbal teas and beverages."
+  },
+  "Cape Gooseberry": {
+    "Scientific Name": "Physalis peruviana",
+    "Local Name": "Cape Gooseberry, Peruvian Groundcherry",
+    "Family": "Solanaceae",
+    "Where it is Found Locally": "Native to South America but cultivated in various regions.",
+    "Medicinal Properties": "Cape Gooseberry is known for its high vitamin C content and antioxidant properties.",
+    "Clinical Usage": "It is used in traditional medicine to boost the immune system, improve digestion, and treat respiratory conditions. The fruit is rich in nutrients and is consumed fresh or in jams and desserts."
+  },
+  "Common Wireweed": {
+    "Scientific Name": "Sida acuta",
+    "Local Name": "Common Wireweed, Bala, Kurunthotti",
+    "Family": "Malvaceae",
+    "Where it is Found Locally": "Found in various parts of the world, especially in tropical and subtropical regions.",
+    "Medicinal Properties": "Common Wireweed is known for its anti-inflammatory and analgesic properties.",
+    "Clinical Usage": "It is traditionally used to treat conditions like fever, cough, and cold. The plant's leaves are used in herbal preparations to alleviate pain and inflammation."
+  },
+  "Country Mallow": {
+    "Scientific Name": "Abutilon indicum",
+    "Local Name": "Country Mallow, Indian Abutilon",
+    "Family": "Malvaceae",
+    "Where it is Found Locally": "Native to India and commonly found in many other Asian countries.",
+    "Medicinal Properties": "Country Mallow is known for its anti-inflammatory and diuretic properties.",
+    "Clinical Usage": "It is traditionally used to treat respiratory conditions such as bronchitis and asthma. The plant's roots and leaves are used in herbal remedies to alleviate cough and throat irritation."
+  },
+  "Crown Flower": {
+    "Scientific Name": "Calotropis gigantea",
+    "Local Name": "Crown Flower, Giant Milkweed",
+    "Family": "Apocynaceae",
+    "Where it is Found Locally": "Native to tropical and subtropical regions, commonly found in India and Southeast Asia.",
+    "Medicinal Properties": "Crown Flower is known for its anti-inflammatory and analgesic properties. It also has potential wound-healing properties.",
+    "Clinical Usage": "Various parts of the plant are used in traditional medicine to treat skin conditions, fever, and gastrointestinal issues. The latex from the plant may be applied to wounds and cuts."
+  },
+  "Green Chireta": {
+    "Scientific Name": "Andrographis paniculata",
+    "Local Name": "Green Chireta, Kalmegh, King of Bitters",
+    "Family": "Acanthaceae",
+    "Where it is Found Locally": "Native to South Asian countries, including India.",
+    "Medicinal Properties": "Green Chireta is known for its strong bitterness and has anti-inflammatory and immunomodulatory properties.",
+    "Clinical Usage": "It is widely used in traditional Ayurvedic and herbal medicine to boost the immune system, treat fevers, and support liver health. It is also used for its anti-malarial properties."
+  },
+  "Holy Basil": {
+    "Scientific Name": "Ocimum sanctum",
+    "Local Name": "Holy Basil, Tulsi",
+    "Family": "Lamiaceae",
+    "Where it is Found Locally": "Native to the Indian subcontinent but cultivated in many parts of the world.",
+    "Medicinal Properties": "Holy Basil is known for its adaptogenic, anti-inflammatory, and antimicrobial properties.",
+    "Clinical Usage": "Holy Basil is considered sacred in Hinduism and is used in traditional medicine for its various health benefits. It is used to reduce stress, boost the immune system, and treat respiratory conditions."
+  },
+  "Indian CopperLeaf": {
+    "Scientific Name": "Acalypha indica",
+    "Local Name": "Indian CopperLeaf, Indian Nettle",
+    "Family": "Euphorbiaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Indian CopperLeaf is known for its anti-inflammatory and analgesic properties. It also has potential wound-healing properties.",
+    "Clinical Usage": "It is traditionally used to treat skin conditions, rheumatic pain, and respiratory issues. The leaves and roots are used in various herbal preparations."
+  },
+  "Indian Jujube": {
+    "Scientific Name": "Ziziphus mauritiana",
+    "Local Name": "Indian Jujube, Ber",
+    "Family": "Rhamnaceae",
+    "Where it is Found Locally": "Native to South Asia and widely cultivated in arid regions.",
+    "Medicinal Properties": "Indian Jujube is known for its nutritional value, including vitamins and minerals.",
+    "Clinical Usage": "The fruit is consumed for its nutritional benefits, and various parts of the plant are used in traditional medicine for their potential anti-inflammatory and digestive properties."
+  },
+  "Indian Sarsaparilla": {
+    "Scientific Name": "Hemidesmus indicus",
+    "Local Name": "Indian Sarsaparilla, Anantamool",
+    "Family": "Apocynaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Indian Sarsaparilla is known for its anti-inflammatory and diuretic properties.",
+    "Clinical Usage": "It is used traditionally to purify the blood, treat skin conditions, and support the respiratory system. The root is commonly used in herbal preparations."
+  },
+  "Indian Stinging Nettle": {
+    "Scientific Name": "Urtica dioica subsp. gracilis",
+    "Local Name": "Indian Stinging Nettle",
+    "Family": "Urticaceae",
+    "Where it is Found Locally": "Found in various parts of India and other regions.",
+    "Medicinal Properties": "Indian Stinging Nettle is known for its anti-inflammatory properties.",
+    "Clinical Usage": "The leaves of the Indian Stinging Nettle are traditionally used to treat arthritis, joint pain, and skin conditions. It is also considered a nutritious vegetable."
+  },
+  "Indian Thornapple": {
+    "Scientific Name": "Datura metel",
+    "Local Name": "Indian Thornapple, Dhatura",
+    "Family": "Solanaceae",
+    "Where it is Found Locally": "Native to South Asia and commonly found in India.",
+    "Medicinal Properties": "Indian Thornapple contains alkaloids with potential medicinal properties, but it is toxic and should be used with caution.",
+    "Clinical Usage": "In traditional medicine, various parts of the plant have been used in limited quantities to induce sedation, relieve pain, and treat respiratory conditions. However, it is highly toxic and not recommended for self-medication."
+  },
+
+  "Indian Wormwood": {
+    "Scientific Name": "Artemisia indica",
+    "Local Name": "Indian Wormwood, Sugandh Bala",
+    "Family": "Asteraceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Indian Wormwood is known for its potential anti-inflammatory and digestive properties.",
+    "Clinical Usage": "It is used traditionally to treat digestive disorders, including indigestion and gas. The leaves and aerial parts of the plant are used in herbal remedies."
+  },
+  "Ivy Gourd": {
+    "Scientific Name": "Coccinia grandis",
+    "Local Name": "Ivy Gourd, Tindora, Kovakkai",
+    "Family": "Cucurbitaceae",
+    "Where it is Found Locally": "Native to India but cultivated in many other tropical regions.",
+    "Medicinal Properties": "Ivy Gourd is known for its nutritional value and potential anti-diabetic properties.",
+    "Clinical Usage": "The fruit is consumed for its nutritional benefits, and it is also used in traditional medicine to help manage diabetes and support digestive health."
+  },
+  "Kokilaksha": {
+    "Scientific Name": "Asteracantha longifolia",
+    "Local Name": "Kokilaksha",
+    "Family": "Acanthaceae",
+    "Where it is Found Locally": "Native to India and found in other parts of Asia.",
+    "Medicinal Properties": "Kokilaksha is known for its potential aphrodisiac and diuretic properties.",
+    "Clinical Usage": "It is traditionally used to improve sexual health, enhance libido, and support urinary health. The plant's seeds and roots are used in herbal preparations."
+  },
+  "Land Caltrops (Bindii)": {
+    "Scientific Name": "Tribulus terrestris",
+    "Local Name": "Land Caltrops (Bindii), Gokshura",
+    "Family": "Zygophyllaceae",
+    "Where it is Found Locally": "Native to warm temperate and tropical regions.",
+    "Medicinal Properties": "Land Caltrops is known for its diuretic, aphrodisiac, and anti-inflammatory properties.",
+    "Clinical Usage": "It is used traditionally to treat urinary and reproductive issues, including impotence and infertility. It is also used to enhance athletic performance."
+  },
+  "Madagascar Periwinkle": {
+    "Scientific Name": "Catharanthus roseus",
+    "Local Name": "Madagascar Periwinkle, Vinca",
+    "Family": "Apocynaceae",
+    "Where it is Found Locally": "Native to Madagascar but cultivated worldwide.",
+    "Medicinal Properties": "Madagascar Periwinkle contains alkaloids with potential medicinal properties.",
+    "Clinical Usage": "It is known for its use in cancer treatment due to its alkaloids vincristine and vinblastine, which have anti-cancer properties. Additionally, it has been used in traditional medicine for diabetes and high blood pressure."
+  },
+  "Madras Pea Pumpkin": {
+    "Scientific Name": "Cucumis maderaspatanus",
+    "Local Name": "Madras Pea Pumpkin, Sattankudi",
+    "Family": "Cucurbitaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Madras Pea Pumpkin is known for its nutritional value and potential diuretic properties.",
+    "Clinical Usage": "The fruit is consumed for its nutritional benefits. In traditional medicine, it is used to promote urination and treat urinary disorders."
+  },
+  "Malabar Catmint": {
+    "Scientific Name": "Anisomeles indica",
+    "Local Name": "Malabar Catmint",
+    "Family": "Lamiaceae",
+    "Where it is Found Locally": "Native to India and Southeast Asia.",
+    "Medicinal Properties": "Malabar Catmint is known for its potential anti-inflammatory and analgesic properties.",
+    "Clinical Usage": "It is used traditionally to treat fever, pain, and respiratory conditions. The leaves and aerial parts of the plant are used in herbal remedies."
+  },
+  "Mexican Mint": {
+    "Scientific Name": "Tagetes lucida",
+    "Local Name": "Mexican Mint, Mexican Marigold",
+    "Family": "Asteraceae",
+    "Where it is Found Locally": "Native to Mexico and Central America.",
+    "Medicinal Properties": "Mexican Mint is known for its potential calming and digestive properties.",
+    "Clinical Usage": "In traditional medicine, it is used to alleviate digestive discomfort, reduce anxiety, and promote relaxation. It is also used to flavor foods and beverages."
+  },
+  "Mexican Prickly Poppy": {
+    "Scientific Name": "Argemone mexicana",
+    "Local Name": "Mexican Prickly Poppy, Satyanashi",
+    "Family": "Papaveraceae",
+    "Where it is Found Locally": "Native to the Americas but has spread to various tropical regions.",
+    "Medicinal Properties": "Mexican Prickly Poppy contains alkaloids with potential medicinal properties.",
+    "Clinical Usage": "In traditional medicine, it has been used for pain relief, as a sedative, and for skin conditions. However, caution is advised as it can be toxic if not used properly."
+  },
+  "Mountain Knotgrass": {
+    "Scientific Name": "Aerva lanata",
+    "Local Name": "Mountain Knotgrass, Kapurijadi",
+    "Family": "Amaranthaceae",
+    "Where it is Found Locally": "Found in various parts of India and other tropical regions.",
+    "Medicinal Properties": "Mountain Knotgrass is known for its potential diuretic and anti-inflammatory properties.",
+    "Clinical Usage": "It is traditionally used to treat urinary tract infections, kidney stones, and digestive disorders. The aerial parts of the plant are used in herbal preparations."
+  },
+  "Nalta Jute": {
+    "Scientific Name": "Corchorus olitorius",
+    "Local Name": "Nalta Jute, Jute Mallow, Ewedu",
+    "Family": "Malvaceae",
+    "Where it is Found Locally": "Native to tropical and subtropical regions, commonly found in Asia and Africa.",
+    "Medicinal Properties": "Nalta Jute is known for its potential anti-inflammatory and antioxidant properties.",
+    "Clinical Usage": "It is traditionally used in various cuisines and herbal remedies. The leaves and seeds are used in cooking, and the plant is believed to have digestive and anti-inflammatory benefits."
+  },
+  "Night-Blooming Cereus": {
+    "Scientific Name": "Epiphyllum oxypetalum",
+    "Local Name": "Night-Blooming Cereus, Queen of the Night",
+    "Family": "Cactaceae",
+    "Where it is Found Locally": "Native to Mexico and other parts of Central America.",
+    "Medicinal Properties": "Night-Blooming Cereus is primarily known for its ornamental value, and there are limited medicinal uses.",
+    "Clinical Usage": "In some traditional medicine systems, the plant has been used for its potential anti-inflammatory and analgesic properties. However, it is mainly cultivated for its beautiful night-blooming flowers."
+  },
+  "Panicled Foldwing": {
+    "Scientific Name": "Dicliptera paniculata",
+    "Local Name": "Panicled Foldwing",
+    "Family": "Acanthaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Panicled Foldwing is known for its potential anti-inflammatory and antioxidant properties.",
+    "Clinical Usage": "It is traditionally used in herbal remedies for various purposes, including digestive health, fever, and pain relief. The aerial parts of the plant are used in preparations."
+  },
+  "Prickly Chaff Flower": {
+    "Scientific Name": "Achyranthes aspera",
+    "Local Name": "Prickly Chaff Flower, Apamarga",
+    "Family": "Amaranthaceae",
+    "Where it is Found Locally": "Native to Asia but found in various parts of the world.",
+    "Medicinal Properties": "Prickly Chaff Flower is known for its potential anti-inflammatory and diuretic properties.",
+    "Clinical Usage": "It is traditionally used to treat various ailments, including digestive issues, skin conditions, and joint pain. Different parts of the plant are used in herbal preparations."
+  },
+  "Punarnava": {
+    "Scientific Name": "Boerhavia diffusa",
+    "Local Name": "Punarnava, Red Spiderling",
+    "Family": "Nyctaginaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Punarnava is known for its diuretic and anti-inflammatory properties.",
+    "Clinical Usage": "It is used in traditional medicine for kidney and urinary disorders, edema, and to promote overall health. The roots and leaves are commonly used in herbal remedies."
+  },
+  "Purple-Fruited Pea Eggplant": {
+    "Scientific Name": "Solanum trilobatum",
+    "Local Name": "Purple-Fruited Pea Eggplant, Thoodhuvalai",
+    "Family": "Solanaceae",
+    "Where it is Found Locally": "Native to India and Southeast Asia.",
+    "Medicinal Properties": "Purple-Fruited Pea Eggplant is known for its potential anti-inflammatory and expectorant properties.",
+    "Clinical Usage": "It is traditionally used to treat respiratory conditions such as asthma and bronchitis. The leaves and berries are used in herbal remedies."
+  },
+  "Purple Tephrosia": {
+    "Scientific Name": "Tephrosia purpurea",
+    "Local Name": "Purple Tephrosia, Sharapunkha",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Purple Tephrosia is known for its potential hepatoprotective (liver-protecting) and anti-inflammatory properties.",
+    "Clinical Usage": "It is used in traditional medicine for liver disorders, jaundice, and as a general health tonic. The whole plant is used in herbal preparations."
+  },
+  "Rosary Pea": {
+    "Scientific Name": "Abrus precatorius",
+    "Local Name": "Rosary Pea, Jequirity",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to tropical and subtropical regions, found in Asia, Africa, and the Americas.",
+    "Medicinal Properties": "Rosary Pea contains toxic compounds and should be used with extreme caution. The seeds contain abrin, a highly toxic protein.",
+    "Clinical Usage": "While it has been used traditionally for certain medicinal purposes, it is important to note that ingesting the seeds can be lethal and should be avoided."
+  },
+  "Shaggy Button Weed": {
+    "Scientific Name": "Diodia scandens",
+    "Local Name": "Shaggy Button Weed",
+    "Family": "Rubiaceae",
+    "Where it is Found Locally": "Native to North and South America.",
+    "Medicinal Properties": "Shaggy Button Weed is known for its potential anti-inflammatory properties.",
+    "Clinical Usage": "In traditional medicine, it has been used to treat conditions like dysentery and urinary disorders. Different parts of the plant are used in herbal remedies."
+  },
+  "Small Water Clover": {
+    "Scientific Name": "Marsilea quadrifolia",
+    "Local Name": "Small Water Clover",
+    "Family": "Marsileaceae",
+    "Where it is Found Locally": "Found in various parts of the world, including Asia.",
+    "Medicinal Properties": "Small Water Clover is known for its potential anti-inflammatory and diuretic properties.",
+    "Clinical Usage": "It is traditionally used in herbal remedies to treat urinary and kidney disorders, as well as to alleviate digestive issues. The plant is commonly found in wetlands."
+  },
+  "Spiderwisp": {
+    "Scientific Name": "Cleome viscosa",
+    "Local Name": "Spiderwisp, Asian Spider Flower",
+    "Family": "Cleomaceae",
+    "Where it is Found Locally": "Native to Asia and commonly found in India.",
+    "Medicinal Properties": "Spiderwisp is known for its potential anti-inflammatory and antimicrobial properties.",
+    "Clinical Usage": "It is used in traditional medicine for its various benefits, including treating skin conditions, fever, and digestive issues. Different parts of the plant are used in herbal remedies."
+  },
+  "Square-Stalked Vine": {
+    "Scientific Name": "Melothria heterophylla",
+    "Local Name": "Square-Stalked Vine",
+    "Family": "Cucurbitaceae",
+    "Where it is Found Locally": "Native to the Americas.",
+    "Medicinal Properties": "Square-Stalked Vine is primarily known as an edible plant and is not widely recognized for medicinal properties.",
+    "Clinical Usage": "The fruit is often consumed as a vegetable and is used in culinary dishes, but it is not commonly used for medicinal purposes."
+  },
+  "Stinking Passionflower": {
+    "Scientific Name": "Passiflora foetida",
+    "Local Name": "Stinking Passionflower, Wild Maracuja",
+    "Family": "Passifloraceae",
+    "Where it is Found Locally": "Native to the Americas and naturalized in other tropical regions.",
+    "Medicinal Properties": "Stinking Passionflower is known for its potential sedative and anxiolytic (anxiety-reducing) properties.",
+    "Clinical Usage": "In some traditional medicine systems, it has been used to alleviate anxiety and insomnia. The leaves and roots are used in herbal remedies."
+  },
+  "Sweet Basil": {
+    "Scientific Name": "Ocimum basilicum",
+    "Local Name": "Sweet Basil, Genovese Basil",
+    "Family": "Lamiaceae",
+    "Where it is Found Locally": "Native to Asia and cultivated worldwide.",
+    "Medicinal Properties": "Sweet Basil is known for its aromatic and potential antioxidant properties.",
+    "Clinical Usage": "It is primarily used as a culinary herb but is also used in traditional medicine to promote digestion, reduce stress, and alleviate respiratory conditions."
+  },
+  "Sweet Flag": {
+    "Scientific Name": "Acorus calamus",
+    "Local Name": "Sweet Flag, Calamus",
+    "Family": "Acoraceae",
+    "Where it is Found Locally": "Native to Asia and Europe, but cultivated in many regions.",
+    "Medicinal Properties": "Sweet Flag is known for its potential digestive and calming properties.",
+    "Clinical Usage": "It is used in traditional medicine to aid digestion, reduce nausea, and relieve anxiety. The rhizomes are used in herbal preparations."
+  },
+  "Tinnevelly Senna": {
+    "Scientific Name": "Cassia angustifolia",
+    "Local Name": "Tinnevelly Senna, Indian Senna",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to India and cultivated in various tropical regions.",
+    "Medicinal Properties": "Tinnevelly Senna is known for its powerful laxative properties.",
+    "Clinical Usage": "It is widely used in herbal remedies and commercial laxative products to relieve constipation and promote bowel movements. It should be used with caution and under guidance."
+  },
+  "Trellis Vine": {
+    "Scientific Name": "Cissus quadrangularis",
+    "Local Name": "Trellis Vine, Hadjod",
+    "Family": "Vitaceae",
+    "Where it is Found Locally": "Native to India and commonly found in other parts of Asia.",
+    "Medicinal Properties": "Trellis Vine is known for its potential bone-strengthening and anti-inflammatory properties.",
+    "Clinical Usage": "It is traditionally used in Ayurvedic medicine to promote bone and joint health, reduce pain and inflammation, and aid in fracture healing. The stem and leaves are used in herbal remedies."
+  },
+  "Velvet Bean": {
+    "Scientific Name": "Mucuna pruriens",
+    "Local Name": "Velvet Bean, Kapikachhu",
+    "Family": "Fabaceae",
+    "Where it is Found Locally": "Native to tropical regions of Africa and Asia.",
+    "Medicinal Properties": "Velvet Bean is known for its potential aphrodisiac and neuroprotective properties.",
+    "Clinical Usage": "It is used in traditional medicine to improve sexual function, boost mood, and support neurological health. The seeds and leaves are used in herbal preparations."
+  },
+  "Coatbuttons": {
+    "Scientific Name": "Tridax procumbens",
+    "Local Name": "Coatbuttons, Tridax Daisy",
+    "Family": "Asteraceae",
+    "Where it is Found Locally": "Native to the Americas and naturalized in other regions.",
+    "Medicinal Properties": "Coatbuttons is known for its potential anti-inflammatory and antimicrobial properties.",
+    "Clinical Usage": "It is used in traditional medicine for various purposes, including wound healing, treating fever, and as a poultice for skin conditions. Different parts of the plant are used in herbal remedies."
+  },
+  "Heart-Leaved Moonseed": {
+    "Scientific Name": "Tinospora cordifolia",
+    "Local Name": "Heart-Leaved Moonseed, Guduchi",
+    "Family": "Menispermaceae",
+    "Where it is Found Locally": "Native to India and other parts of Asia.",
+    "Medicinal Properties": "Heart-Leaved Moonseed is known for its immunomodulatory and antioxidant properties.",
+    "Clinical Usage": "It is a highly regarded herb in Ayurvedic medicine and is used to boost the immune system, improve liver health, and treat various ailments. The stem and roots are commonly used in herbal preparations."
+  }
+}
