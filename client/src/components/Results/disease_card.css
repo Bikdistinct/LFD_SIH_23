@@ -4,9 +4,13 @@
     flex: 0 0 auto;
     width: 50vw;
     /* height: max-content; */
+    /* height: 20vw; */
+    overflow: hidden;
     padding: 1rem;
     background: rgba(240, 247, 237, 1);
     margin: 3rem;
+    margin-left: 6rem;
+    margin-right: 6rem;
 
 }
 .disease-left{
@@ -22,11 +26,3 @@
     height: 100%;
     object-fit: cover;
 }
-
-.disease-card.focused {
-    height: 30vh; /* Adjusted height for the focused card */
-  }
-  
-  .disease-card.large {
-    height: 50vh; /* Adjusted height for other cards */
-  }

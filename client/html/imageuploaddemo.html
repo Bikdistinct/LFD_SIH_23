@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Image Upload and Display</title>
+</head>
+<body>
+  <h1>Image Upload and Display</h1>
+
+  <!-- Image upload form -->
+  <form id="imageForm">
+    <input type="file" accept="image/*" id="imageInput" />
+    <button type="submit">Upload Image</button>
+  </form>
+
+  <!-- Display the uploaded image -->
+  <div id="imageDisplay"></div>
+
+  <script>
+    document.getElementById('imageForm').addEventListener('submit', function(event) {
+      event.preventDefault();
+
+      // Get the file input
+      const fileInput = document.getElementById('imageInput').files[0];
+
+      // Check if an image is selected
+      if (fileInput) {
+        const reader = new FileReader();
+
+        reader.onload = function(event) {
+          const imageData = event.target.result;
+
+          // Store the image data in sessionStorage
+          sessionStorage.setItem('imageData', imageData);
+
+          // Display the uploaded image
+          document.getElementById('imageDisplay').innerHTML = `<img src="${imageData}" alt="Uploaded Image" style="max-width: 100%; height: auto;" />`;
+        };
+
+        // Read the image as a data URL
+        reader.readAsDataURL(fileInput);
+      } else {
+        alert('Please select an image.');
+      }
+    });
+
+    // Retrieve and display the image from sessionStorage on page load
+    window.addEventListener('load', function() {
+      const imageData = sessionStorage.getItem('imageData');
+      if (imageData) {
+        document.getElementById('imageDisplay').innerHTML = `<img src="${imageData}" alt="Uploaded Image" style="max-width: 100%; height: auto;" />`;
+      }
+    });
+  </script>
+</body>
+</html>

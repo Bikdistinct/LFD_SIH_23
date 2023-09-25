@@ -2,9 +2,9 @@ import React from "react";
 import DiseaseImg from "../../assets/Rectangle_20.png";
 import Symbol from "../../assets/Group_11.png";
 import "./disease_card.css";
-function DiseaseCard({isFocused}) {
+function DiseaseCard() {
   return (
-    <div className={`disease-card ${isFocused ? "focused" : "large"}`}>
+    <div className='disease-card'>
       <div className="disease-left">
         <p>
           <img src={Symbol} />{" "}

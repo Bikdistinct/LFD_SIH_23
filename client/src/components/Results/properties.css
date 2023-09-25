@@ -55,3 +55,19 @@ color:rgba(76, 175, 80, 1);
     color: rgba(0, 0, 0, 0.59);
 
 }
+
+
+
+/* -----------------Mobile view---------------------- */
+
+@media screen and (max-width: 768px) {
+  .prop-left{
+    visibility: hidden;
+    width: 0px;
+  }
+  .prop-right{
+    width: 100%;
+    font-size: small;
+  }
+  
+}
